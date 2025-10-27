@@ -2,7 +2,7 @@
 import './App.css'
 import About from './components/About'
 import OnlineOrders from './components/Online_orders'
-import Online_services from './components/online_services.jsx'
+import Online_services from './components/Online_services'
 import Booktable from './components/Booktable.jsx'
 import Specialities from './components/Specialities.jsx'
 import BrandCheif from './components/BrandCheif.jsx'
