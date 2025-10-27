@@ -1,6 +1,6 @@
 import React from "react";
 
-const OnlineOrders = () => {
+const Online_services = () => {
   return (
     <>
       <section className="relative flex flex-col justify-between lg:flex-row lg:items-stretch w-full min-h-screen bg-black overflow-hidden">
@@ -57,4 +57,4 @@ const OnlineOrders = () => {
   );
 };
 
-export default OnlineOrders;
+export default Online_services;
